@@ -1,2 +1,3 @@
-# SQL
-[problems]Problem solving from the book of Alan Beaulieu "Learning SQL"
+## Chapter 7
+
+![screen](https://github.com/odnaks/-/blob/master/sql/7ch.png)
